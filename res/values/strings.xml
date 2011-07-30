@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The HP Bestiary</string>
+    <string name="welcome">Welcome to the Bestiary!</string>
+    <string name="playing">This is a really goofy 20 questions game. Thanks for playing!</string>
+</resources>
